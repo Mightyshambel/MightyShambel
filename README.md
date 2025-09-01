@@ -29,7 +29,7 @@ I’ve completed several professional certifications to strengthen my skills in 
 ## 🚀 Featured Projects
 
 - [Equity Echo](https://equity-echo.netlify.app/) – Python toolkit for analyzing market data with charts and backtesting.Interactive trading dashboard deployed on Netlify.
-- **Rely Assist Chatbot (In Progress)** – An AI-powered chatbot built with AngularJS for Relybytes, focusing on conversational assistance and smart responses.
 - [Modafit Italy](https://modafit-italia.com/en) – Virtual try-on application. Served as **Technical Account Manager**, bridging communication between client & dev team, hiring developers, and translating requirements into deliverables.
+- **Rely Assist Chatbot (In Progress)** – An AI-powered chatbot built with AngularJS for Relybytes, focusing on conversational assistance and smart responses.
 
 
