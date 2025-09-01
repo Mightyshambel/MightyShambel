@@ -1,16 +1,17 @@
-## Hi there 👋
+# ✨ About Me
 
-<!--
-**Mightyshambel/MightyShambel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Seasoned Full Stack Developer** with a Bachelor’s degree in Software Engineering.  
+Over the years, I’ve designed, developed, and delivered **scalable web applications** that combine performance with great user experience. My expertise spans both **front-end and back-end development**, enabling me to build solutions that work seamlessly across platforms.
 
-Here are some ideas to get you started:
+Recently, I’ve expanded into **Python for data analysis** (NumPy, Pandas) and **Generative AI**, applying these tools to create **data-driven and AI-powered applications**. I am also on the path to **mastering Data Science**, exploring machine learning, analytics, and AI to transform raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about **continuous learning**, staying ahead of emerging technologies, and applying innovative solutions to real-world challenges.
+
+## 🛠 Tech Stack
+
+**Front-end:** HTML5, CSS, Angular, Vue, Vuex, Tailwind CSS, Material UI, jQuery  
+**Back-end:** Laravel, Node.js, Express.js  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Python & Data:** Python, NumPy, Pandas, Generative AI, Data Science (in progress)  
+**DevOps & Tools:** Docker, Git, CI/CD
+
