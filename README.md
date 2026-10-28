@@ -1,12 +1,9 @@
 # ✨ About Me  
 
-I’m a **Seasoned Full Stack Developer** with a Bachelor’s degree in Software Engineering.  
-Over the years, I’ve designed, developed, and delivered scalable web applications that combine high performance with excellent user experience. My expertise spans both **front-end and back-end development**, enabling me to build solutions that work seamlessly across platforms.  
+I'm a Software Engineer with 3+ years of experience building scalable web applications, data pipelines, and AI-powered solutions. With a background in Software Engineering and a growing specialization in Artificial Intelligence, I enjoy turning complex problems into reliable, user-focused products.
 
-Recently, I’ve expanded into **Python for Data Analysis (NumPy, Pandas)** and **Generative AI**, applying these tools to create data-driven and AI-powered applications. I’m also on the path to mastering **Data Science**, exploring machine learning, analytics, and AI to transform raw data into actionable insights.  
-
-I’m passionate about **continuous learning**, staying ahead of emerging technologies, and applying **innovative solutions** to real-world challenges.  
-
+My expertise spans full-stack development, data engineering, and AI integration, combining modern frontend frameworks with robust backend systems and efficient data-processing workflows.
+  
 ---
 
 ## 🛠 Tech Stack  
@@ -56,5 +53,5 @@ AI-powered peer support platform designed to connect people facing difficult lif
 
 ---
 
-✨ *Full Stack Developer | Exploring Python, Data Science & Generative AI | Building scalable, data-driven web applications*  
+✨ *Full Stack Developer| Building scalable, data-driven web applications*  
 
