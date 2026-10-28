@@ -39,10 +39,12 @@ I’ve completed several professional certifications to strengthen my skills in 
 
 - [**Modafit Italy**](https://modafit-italia.com/en)  
   Virtual try-on application. Served as **Technical Account Manager**, bridging communication between client & dev team, hiring developers, and translating requirements into deliverables.  
+  
+- [**SEEN – Real People. Shared Experience.(https://seen-app.netlify.app)**]
+AI-powered peer support platform designed to connect people facing difficult life experiences with others who have been through similar situations. Developed as a group capstone project for the International Master in Artificial Intelligence, featuring a proof-of-concept matching system using Python, Sentence-BERT (SBERT), and FAISS to identify meaningful connections based on lived experiences. Focuses on responsible AI, privacy, human oversight, and ethical governance to promote safe and meaningful human connection. 🌐 Deployed as an interactive web application on Netlify.
 
 - **Rely Assist Chatbot (In Progress)**  
-  An AI-powered chatbot built with **AngularJS** for **Relybytes**, focusing on conversational assistance and smart responses.  
-
+  An AI-powered chatbot built with **AngularJS** for **Relybytes**, focusing on conversational assistance and smart responses.
 ---
 
 ## 🌍 Connect with Me  
